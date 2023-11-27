@@ -1,0 +1,5 @@
+1. Server taraflı main.cpp dosyası yazılmaya başlandı.
+2. libthenet kütaphanesine typedef.h dosyası yazıldı.
+3. socket.c için INVALID_SOCKET definesi eklendi ve Dinamik hale getirildi.
+4. tcp_socket içinde typedef da socket_t değişkeni oluşturulup int atandı dinamik hale getirildi.
+5. game taraflı config dosyası yazılmaya başlandı.
